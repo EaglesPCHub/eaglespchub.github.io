@@ -1,2 +1,2 @@
-# eaglespchub.github.io
-The website
+# Eagle's PC Hub
+The website.
